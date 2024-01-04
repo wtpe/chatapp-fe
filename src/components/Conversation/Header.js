@@ -34,6 +34,7 @@ const StyledBadge = styled(Badge)(({ theme }) => ({
     },
   },
 }));
+const abc=1;
 
 const Header = () => {
   const theme = useTheme();
